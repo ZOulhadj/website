@@ -36,10 +36,10 @@ body {
 }
 
 .container {
-
+	margin: 20px;
 }
 
 .footer {
-	background-color: #1b1c1c;
-	color: #fff;
+	/* background-color: #1b1c1c; */
+	color: #000;
 }

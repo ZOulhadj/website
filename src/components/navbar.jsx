@@ -10,8 +10,8 @@ export default function Navbar() {
                 <Link className="nav-button" to="/about">
                     About
                 </Link>
-                <Link className="nav-button" to="/programming">
-                    Programming
+                <Link className="nav-button" to="/blog">
+                    Blog
                 </Link>
                 <Link className="nav-button" to="/faq">
                     FAQ
