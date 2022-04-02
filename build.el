@@ -10,9 +10,9 @@
 (defvar website-name "zakariyaoulhadj.com")
 
 (defvar html-head
-  "<link rel='icon' type='image/x-icon' href='images/favicon.ico'/>
-   <link rel='stylesheet' href='../assets/css/simple.min.css'>
-   <link rel='stylesheet' href='../assets/css/styles.css' type='text/css'/>")
+  "<link rel='icon' type='image/x-icon' href='assets/images/favicon.ico'/>
+   <link rel='stylesheet' href='assets/css/simple.min.css'>
+   <link rel='stylesheet' href='assets/css/styles.css' type='text/css'/>")
 
 (defvar html-preamble
   "<center>
@@ -50,7 +50,7 @@
          :recursive t
          :base-directory "./org"
          :base-extension "org"
-         :publishing-directory "./public/"
+         :publishing-directory "."
          :publishing-function org-html-publish-to-html
          :html-head ,html-head
          :html-preamble ,html-preamble

@@ -1,7 +1,7 @@
 #+TITLE: Zakariya Oulhadj
 
 #+ATTR_HTML: width="300px"
-[[file:../assets/images/me.png]]
+[[file:assets/images/me.png]]
 
 My name is Zakariya Oulhadj and I'm 20 years old years old. I'm a student
 studying BSc Computer Science at the [[https://roehampton.ac.uk][University of Roehampton]] in London, UK.

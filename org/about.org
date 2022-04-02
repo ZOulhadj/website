@@ -14,17 +14,17 @@ Republic which is where I am every summer and winter.
 Like many others, I've got my fair share of hobbies.
 
 
-[[file:../assets/images/about/computer_bench.jpg]]
+[[file:assets/images/about/computer_bench.jpg]]
 
-[[file:../assets/images/about/croatia_boat.jpg]]
+[[file:assets/images/about/croatia_boat.jpg]]
 
-[[file:../assets/images/about/livigno.jpg]]
+[[file:assets/images/about/livigno.jpg]]
 
-[[file:../assets/images/about/czech_mountain.jpg]]
+[[file:assets/images/about/czech_mountain.jpg]]
 
-[[file:../assets/images/about/mtb_race.jpg]]
+[[file:assets/images/about/mtb_race.jpg]]
 
-[[file:../assets/images/about/czech.jpg]]
+[[file:assets/images/about/czech.jpg]]
 
 
 ** Programming
@@ -35,14 +35,14 @@ specifically, I' into competitive cycling.
 
 *** Cycling
 
-[[file:../assets/images/about/cycling/1.jpg]]
+[[file:assets/images/about/cycling/1.jpg]]
 
-[[file:../assets/images/about/cycling/2.jpg]]
+[[file:assets/images/about/cycling/2.jpg]]
 
 
-[[file:../assets/images/about/cycling/3.jpg]]
+[[file:assets/images/about/cycling/3.jpg]]
 
-[[file:../assets/images/about/cycling/4.jpg]]
+[[file:assets/images/about/cycling/4.jpg]]
 
 
 ** Travelling
