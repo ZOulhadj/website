@@ -1,0 +1,4 @@
+#+TITLE: Blog
+#+OPTIONS: toc:t
+
+* Welcome to my blog

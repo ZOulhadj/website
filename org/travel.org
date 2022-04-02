@@ -1,0 +1,19 @@
+#+TITLE: Travel
+
+* List of countries I've visited
+** Czech Republic
+** Germany
+** Poland
+** France
+** Belgium
+** Bulgaria
+** Italy
+** Austria
+** Algeria
+** Netherlands
+** Greece
+** Croatia
+** Slovenia
+** Luxembourg
+** Switzerland
+

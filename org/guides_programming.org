@@ -1,0 +1,33 @@
+#+TITLE: Programming Guides
+
+
+* First program
+     #+BEGIN_SRC c
+       #include <stdio.h>
+
+       int add(int a, int b)
+       {
+           return a + b;
+       }
+
+       int main()
+       {
+           int result = add(20, 50);
+
+           printf("%d\n", result);
+
+           return 0;
+       }
+     #+END_SRC
+** Building
+     Turning code into a executable program conists of multiple stages. I'll
+     only discuss very simple concepts as the entire process is quite complicated.
+     There are two main stages, the compiler and then the linked.     
+*** What's a compiler?
+      A compiler is a program which converts code into object files. This is a
+      type of intermediate file that is almost a working program but requires
+      a final linking stage.
+     
+*** What is a linker?
+      Once the compiler has generated the object files it's the linkers job
+      to "patch" together all the function calls within a

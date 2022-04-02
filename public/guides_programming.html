@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<!-- 2022-04-02 Sat 03:54 -->
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Programming Guides</title>
+<meta name="generator" content="Org Mode" />
+<link rel='icon' type='image/x-icon' href='images/favicon.ico'/>
+   <link rel='stylesheet' href='../assets/css/simple.min.css'>
+   <link rel='stylesheet' href='../assets/css/styles.css' type='text/css'/>
+</head>
+<body>
+<div id="preamble" class="status">
+<center>
+       <a href='index.html'>Home</a> |
+       <a href='about.html'>About</a> |
+       <a href='portfolio.html'>Porfolio</a> |
+       <a href='blog.html'>Blog</a> |
+       <a href='guides.html'>Guides</a> |
+       <a href='travel.html'>Travel</a> |
+       <a href='contact.html'>Contact</a>
+   </center>
+</div>
+<div id="content" class="content">
+<header>
+<h1 class="title">Programming Guides</h1>
+</header>
+
+<div id="outline-container-orgd923e37" class="outline-2">
+<h2 id="orgd923e37">First program</h2>
+<div class="outline-text-2" id="text-orgd923e37">
+<div class="org-src-container">
+<pre class="src src-c">#include &lt;stdio.h&gt;
+
+int add(int a, int b)
+{
+    return a + b;
+}
+
+int main()
+{
+    int result = add(20, 50);
+
+    printf("%d\n", result);
+
+    return 0;
+}
+</pre>
+</div>
+</div>
+<div id="outline-container-org955dee3" class="outline-3">
+<h3 id="org955dee3">Building</h3>
+<div class="outline-text-3" id="text-org955dee3">
+<p>
+Turning code into a executable program conists of multiple stages. I'll
+only discuss very simple concepts as the entire process is quite complicated.
+There are two main stages, the compiler and then the linked.     
+</p>
+</div>
+<div id="outline-container-org45ada8f" class="outline-4">
+<h4 id="org45ada8f">What's a compiler?</h4>
+<div class="outline-text-4" id="text-org45ada8f">
+<p>
+A compiler is a program which converts code into object files. This is a
+type of intermediate file that is almost a working program but requires
+a final linking stage.
+</p>
+</div>
+</div>
+
+<div id="outline-container-org76e8de9" class="outline-4">
+<h4 id="org76e8de9">What is a linker?</h4>
+<div class="outline-text-4" id="text-org76e8de9">
+<p>
+Once the compiler has generated the object files it's the linkers job
+to "patch" together all the function calls within a
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<center>
+       zakariyaoulhadj.com
+       <span>2020-2022</span>
+   </center>
+</div>
+</body>
+</html>

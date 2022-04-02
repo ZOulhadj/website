@@ -1,0 +1,32 @@
+#+TITLE: University Portfolio
+
+
+
+* Grading Key
+|--------------+-----------------------|
+| Credit Level | Grade                 |
+|--------------+-----------------------|
+|          70+ | First                 |
+|        60-69 | Second Upper Division |
+|        50-59 | Second Lower Division |
+|        40-49 | Pass                  |
+|--------------+-----------------------|
+
+
+* Year 1 Grades
+|------------------------+--------|
+| Module                 |  Grade |
+|------------------------+--------|
+| Software Development 1 |     91 |
+| Computer Systems       |     89 |
+| Mathematics            |     75 |
+| Software Development 2 |     85 |
+| Computer and Society   |     73 |
+| Databases              |     81 |
+|------------------------+--------|
+| *Final Grade*          | *83.3* |
+|------------------------+--------|
+
+
+
+
