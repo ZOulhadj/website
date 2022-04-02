@@ -12,7 +12,17 @@
 (defvar html-head
   "<link rel='icon' type='image/x-icon' href='assets/images/favicon.ico'/>
    <link rel='stylesheet' href='assets/css/simple.min.css'>
-   <link rel='stylesheet' href='assets/css/styles.css' type='text/css'/>")
+   <link rel='stylesheet' href='assets/css/styles.css' type='text/css'/>
+
+   <!-- Global site tag (gtag.js) - Google Analytics -->
+   <script async src='https://www.googletagmanager.com/gtag/js?id=G-8B9M5SYE68'></script>
+   <script>
+       window.dataLayer = window.dataLayer || [];
+       function gtag(){dataLayer.push(arguments);}
+       gtag('js', new Date());
+
+       gtag('config', 'G-8B9M5SYE68');
+   </script>")
 
 (defvar html-preamble
   "<center>
