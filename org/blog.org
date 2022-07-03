@@ -1,4 +1,72 @@
 #+TITLE: Blog
-#+OPTIONS: toc:t
 
-* Welcome to my blog
+* Passing my driving test
+
+  [[file:assets/images/blog/passing_driving_test.jpg]]
+
+  On the 28th June 2022, I successfully passed my driving test. My journey to
+  becoming a driver started all the way back on the 6th July 2020 when I had
+  just passed my theory test first time. The reason why I decided to do it is
+  because a few of my friends managed to get it done and thought to myself why
+  not. During this time, I was not in a rush to start driving as I simply did
+  not need to and also I was not that interested in it.
+
+  Soon after having completed the the theory test, the UK as well as many other
+  countries around the world went into lockdowns as a result of COVID-19.
+  Subsequently, this resulted in driving tests being cancelled and thus, not
+  much could be done during this time. In fact, this remained the case for over
+  a year.
+
+  Fast-forward to February 2022 and at this point I had told my dad that my
+  theory test will expire on the 6th of July. Knowing this, he started to remind
+  me that I should begin to learn in order to pass my driving test as quickly
+  as possible.
+
+  At first, I was not very keen on this as firstly driving lessons where not
+  really possible due to the pandemic and furthermore, we simply did not have a
+  car to learn on. However, after some back-and-forths we decided to go all in
+  and proply start learning in order to get this over and done with as quickly
+  as possible.
+
+  So after about a week of searching we found a cheap VW Polo that we could
+  learn on.  From that point on, almost every other day I would go out and learn
+  to drive with my dad. At first, it was not a great experience especially in
+  regards to the gears since it was a manual car. Having this, it only took me
+  about a couple of days to start getting comfortable with it. This continued
+  for around 3 months up until my first driving test which was booked for the
+  6th June 2022. However, this was less than ideal.  The reason being is that
+  this test was booked for at Maybush, Southhampton. Almost 80 miles away from
+  London where I live. This was due to every single test centre near me being
+  fully booked as a result of the COVID-19 backlog.
+
+  To cut the story short, I failed. It was probably the most gut-wrenching
+  feeling considering how much we had prepared both physically and mentally. I
+  had recived 1 major and 5 minors.  The one major fault that I got which
+  resulted in me failing was accidentally rolling back about half a meter at a
+  junction on the way back to the test centre. The junction was slightly up a
+  hill and for some reason I thought I was in first gear when in reality I was
+  in neutral. So when I was at the "biting point" hoping to move forward on the
+  main road, I simply rolled back.
+
+  Anyways, when we arrived back home I immediately started looking for another
+  test since the theory end date was coming up. I was not looking constantly but
+  I would maybe check once a day. A week later on the 17th I was up all night
+  and it was 6 am. I remembered that the DVSA booking system becomes available
+  from 6 am so I thought why not check since most people will be asleep. So I
+  checked and like always it was nothing. Just kept clicking "next" to show
+  further and further test centres until to my surprise there was one open
+  booking for the 28th of June at Salisbury. Once again almost 80 miles away. It
+  was honestly my only option and there was nothing else and my theory test was
+  expiring on the 6th July. So I booked it and me and my dad continued to
+  practice.
+
+  On the day we woke up at 4am and I drove down all the way which took around
+  1:30 hours. Got there at 7:45 for the test at 8:10. The examiner was really
+  nice and was very understanding and helpful. I passed with 1 minor which was
+  for parallel parking in which I had to readjust.
+
+  Looking back, in a matter of 3 months and only 1 week before my theory test
+  was about the expire I managed to pass my UK driving test. This now means I am
+  able to drive independently wherever I want. Personally, I've wanted to do
+  many things such as travel to other countries, take myself to bike races and
+  so much more which is now all possible.
